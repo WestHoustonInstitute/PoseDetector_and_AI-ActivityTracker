@@ -1,0 +1,4 @@
+1-) Go to https://teachablemachine.withgoogle.com/train/pose
+2-) Upload the images of the "dance moves" or any moves you want the machine to detect.Change the name of the moves(e.g. Class1 to Robot_Dance, Class2 to Moonwalk etc.). 
+3-) Once you have uploaded all of the moves, click on "Train Model".(Do not leave the tab it will cause the model to stop training)
+4-) After the model is trained, try the poses you have uploaded and test if your model can detect your "dance"!
