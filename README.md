@@ -22,5 +22,5 @@ Second session requires the microbit, battery, USB-C cable and a computer with i
 <img src="https://github.com/user-attachments/assets/45075326-51cd-4079-b8df-d0e61c4080a8" alt="List" width="700" height="500">
 
 How to do the activities:
-* Go to [1-)PoseDetector](https://github.com/user/repo/blob/branch/other_file.md)
-* 
+* For the first session: Go to [1-)PoseDetector/Instructions.txt]https://github.com/WestHoustonInstitute/PoseDetector_and_AI-ActivityTracker/blob/main/1-)PoseDetector/Instructions.txt and follow the instructions.
+* For the second session: 
