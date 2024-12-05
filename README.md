@@ -7,4 +7,4 @@ Requirements:
 * 1x USB-C Cable
 * Access to a computer with internet
 
-<img src="https://github.com/user-attachments/assets/c349b443-2780-44d3-9327-95e47fa3dc89" alt="hardware_list" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/75cfca30-1a0a-4230-8a99-a390e0032995" alt="List" width="500" height="500">
