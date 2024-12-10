@@ -1,0 +1,8 @@
+License
+CC BY
+Micro:bit case for microbit with battery holder
+by bertbaron is licensed under the Creative Commons - Attribution license.
+
+https://www.thingiverse.com/thing:4815069 for the original link.
+
+The holder is slightly altered by our designers.
