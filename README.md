@@ -22,5 +22,5 @@ Second session only requires a computer with webcam and the project will run on 
 
 
 How to do the activities:
-* For the first session: Go to [1-)AI-ActivityTracker/Instructions.txt]https://github.com/WestHoustonInstitute/PoseDetector_and_AI-ActivityTracker/blob/main/1-)AI-ActivityTracker/Instructions.txt and follow the instructions.
-* For the second session: Go to [2-)PoseDetector/Instructions.txt]https://github.com/WestHoustonInstitute/PoseDetector_and_AI-ActivityTracker/blob/main/2-)PoseDetector/Instructions.txt and follow the instructions.
+* For the first session: Go to [1-)AI-ActivityTracker/Instructions.txt]https://github.com/WestHoustonInstitute/PoseDetector_and_AI-ActivityTracker/blob/main/1-)AI-ActivityTracker and follow the instructions.
+* For the second session: Go to [2-)PoseDetector/Instructions.txt]https://github.com/WestHoustonInstitute/PoseDetector_and_AI-ActivityTracker/blob/main/2-)PoseDetector and follow the instructions.
