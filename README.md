@@ -1,6 +1,6 @@
 # PoseDetector_and_AI-ActivityTracker
 
-This is a 2 session project. First session includes https://teachablemachine.withgoogle.com pose model training and testing. During the session you will be able to train from your own images and identify the "labeled movements" from your own camera. Second session includes https://createai.microbit.org to create a Machine Learning model to identify the microbit's accelerometer data patterns.
+This is a 2 session project. First session includes https://createai.microbit.org to create a Machine Learning model to identify the microbit's accelerometer data patterns. Second session includes https://teachablemachine.withgoogle.com pose model training and testing. During the session you will be able to train from your own images and identify the "labeled movements" from your own camera.
 
 Requirements:
 * 1x micro:bit
