@@ -1,0 +1,7 @@
+1-) Go to https://createai.microbit.org/data-samples
+2-) Wire your USB-C to the pc and micro:bit.
+3-) Click on Connect, follow the steps to pair your micro:bit with your computer.
+4-) Disconnect the USB-C cable and wire battery cable to the micro:bit. After that, connect micro:bit using Web Bluetooth.
+5-) Now you should be able to see the "Live Data Graph". The x,y and axis values will change according to the micro:bit's movement patterns. 
+6-) The "movement pattern data" is already recorded and available on the system. Click on "Train Model". 
+7-) Now you are able to observe the "estimated action" and its confidence level. 
